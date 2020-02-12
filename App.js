@@ -169,7 +169,7 @@ export default class App extends React.Component {
                     </Text>
 
                     <Text style={{ flex: 2, fontSize: 18 }}>
-                      {item.amount} ${item.curr}
+                      {item.amountCad} $CAD
                     </Text>
                   </View>
                 );
